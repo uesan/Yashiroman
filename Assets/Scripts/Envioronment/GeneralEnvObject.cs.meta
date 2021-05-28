@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f29b5f4ef67174e269ed8293f836aded
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - healingSE: {fileID: 8300000, guid: bfb34676b232a461198c0a5f9c760e0b, type: 3}
+  - enemyDamagedSE: {fileID: 8300000, guid: e54cf92243cb24fe986fa10c6ce7267f, type: 3}
+  - enemyDestroiedSE: {fileID: 8300000, guid: 1b87e9d42e55348c3b1e80146a098b10, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

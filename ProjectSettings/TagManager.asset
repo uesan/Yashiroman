@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Empty
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Enemy
+  - Player
+  - Bullet
+  - Decoration
+  - Gimmick
+  - EnemyBullet
+  - PlayerCollider
+  - CameraRange
+  - EnemyBulletNoCancel
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Decoration
+    uniqueID: 2411534491
+    locked: 0
+  - name: Ground
+    uniqueID: 3699112965
+    locked: 0
+  - name: Gimick
+    uniqueID: 217173177
+    locked: 0
+  - name: Accesory
+    uniqueID: 3392181467
+    locked: 0
+  - name: EnemyBullet
+    uniqueID: 3134403361
+    locked: 0
+  - name: Enemy
+    uniqueID: 1048636997
+    locked: 0
+  - name: Bullet
+    uniqueID: 2822652681
+    locked: 0
+  - name: Player
+    uniqueID: 1848771115
+    locked: 0
+  - name: PlayerEffect
+    uniqueID: 514208575
+    locked: 0
+  - name: UI
+    uniqueID: 2598392257
+    locked: 0

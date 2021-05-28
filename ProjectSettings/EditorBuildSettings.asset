@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Title.unity
+    guid: 0c10c3d1d5b48fc4296ee5c0cbd9a5e3
+  - enabled: 1
+    path: Assets/Scenes/PonpimanStage.unity
+    guid: dfef810c8a5bf6047be52728985a4d96
+  - enabled: 1
+    path: Assets/Scenes/StageClear.unity
+    guid: 9e5b53e1d8af444bfbb65f4bd27edc52
+  m_configObjects: {}
